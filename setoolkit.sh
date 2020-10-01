@@ -13,10 +13,10 @@ echo
 echo "Dependencies Installed..:D"
 echo
 echo "Setoolkit is downloading......"
-wget https://hax4us.github.io/setoolkit_7.7.2.gz
+curl -LO https://github.com/trustedsec/social-engineer-toolkit/archive/8.0.3.tar.gz
 echo
 echo "Extracting ........"
-tar -xf setoolkit_7.7.2.gz
+tar -xf social-engineering-toolkit-8.0.3.tar.gz
 echo
 echo "Extracted.... :D"
 echo

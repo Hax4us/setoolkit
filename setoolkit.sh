@@ -23,3 +23,4 @@ echo
 echo " Now exit from termux and reopen then goto setoolkit folder and run setup.py script after then you can run setoolkit just by this command :- setoolkit"
 echo
 echo "U wanna host this package (Setoolkit_7.7.2.gz) in your repo..? Shame on you ...!"
+echo "Why shame on me? is hosting a repo a sin?"
